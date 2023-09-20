@@ -7,6 +7,6 @@ Single-player mode Two-player mode Three difficulty levels Clean and easy-to-rea
 
 To build the game, run the following command:
 
-g++ Tic-Tac-Toe.cpp -o tic-tac-toe To play the game, run the following command:
+g++ main.cpp -o tic-tac-toe To play the game, run the following command:
 
 ./tic-tac-toe Have fun!
